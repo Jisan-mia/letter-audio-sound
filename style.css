@@ -1,0 +1,52 @@
+body{
+    margin:0 100px;
+    background-color: rgb(65, 57, 57);
+    font-family: sans-serif;
+}
+.my-btn{
+    color: blue;
+    padding: 18px 25px;
+    font-size: 25px;
+    background-image: linear-gradient(to left, tomato, salmon);
+    border: none;
+    border-radius: 5px;
+    width: 100px;
+    margin: 15px;
+    
+     
+}
+.letter{
+    margin: ;
+}
+.half-width{
+    float: left;
+    width: 50%;
+    margin-top: 25px;
+}
+.btn-anim{
+    box-shadow: 5px 5px greenyellow;
+}
+.heading{
+    color:gainsboro;
+    padding: 10px;
+    text-align: center;
+}
+.children-color{
+    color: yellowgreen;
+}
+ a{
+    text-decoration: none;
+    color: white;
+    border: 5px solid green;
+    border-radius:2px ;
+    padding: 4px;
+    margin-top: 15px;
+}
+.digit-sound{
+    
+ 
+    margin-top: 0px;
+    text-align: right;
+    margin-bottom: 25px;
+    
+}
